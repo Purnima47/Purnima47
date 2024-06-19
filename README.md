@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Projects<br>👯 I’m looking to collaborate with you<br>🤝 I’m looking for help with Python<br>🌱 I’m currently learning DSA with Java and Full Stack Development <br>💬 Ask me about Java and Web Development<br>📩 Reach me through purnimakesarwani47@gmail.com
+🔭 I’m currently working on Full Stack Projects<br>👯 I’m looking to collaborate with you<br>🌱 I’m currently learning DSA with Java and Full Stack Development <br>💬 Ask me about Java and Web Development<br>📩 Reach me through purnimakesarwani47@gmail.com
 
 
 ## 🌐 Socials:
